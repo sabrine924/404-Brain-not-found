@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: GestionEvenement
+Implementation-Version: 1.0
+Built-By: Meryam
+Implementation-Vendor-Id: com.esprit.spring
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://spring.io/projects/spring-boot/GestionEven
+ ement
+Created-By: Maven Integration for Eclipse
+
